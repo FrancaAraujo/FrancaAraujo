@@ -1,11 +1,11 @@
-<h1 align="center">Hi there, I'm Wanderson Teixeira Sousa 👋</h1>
+<h1 align="center">Hi there, I'm Guilherme Araújo França 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/eidersin/github-readme-stats">
-    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=eidersin&theme=radical&show_icons=true&count_private=true" />
+  <a href="https://github.com/francaaraujo/github-readme-stats">
+    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=francaaraujo&theme=radical&show_icons=true&count_private=true" />
   </a>
-  <a href="https://github.com/eidersin/github-readme-stats">
-    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eidersin&layout=compact&langs_count=8&card_width=320&theme=radical" />
+  <a href="https://github.com/francaaraujo/github-readme-stats">
+    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=francaaraujo&layout=compact&langs_count=8&card_width=320&theme=radical" />
   </a>
 </p>
 
@@ -89,13 +89,7 @@
 ### 🌐 Conecte-se Comigo
 
 <p align="center">
-  <a href="mailto:dersonts@gmail.com">
+  <a href="mailto:franca.araujo@discente.ufg.br">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-  <a href="https://www.linkedin.com/in/dersonts" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-<a href="https://eidersin-github-io.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-Curr%C3%ADculo-%23333333?style=for-the-badge&logo=pdf&logoColor=white" target="_blank">
-</a>
 </p>
